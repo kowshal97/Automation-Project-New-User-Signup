@@ -35,7 +35,7 @@ The script validates page loading, fills the signup form, completes the detailed
 
 ---
 
-📸 Demo Flow
+## 📸 Demo Flow
 
 - Opens AutomationExercise.com
 - Navigates to Signup/Login page
