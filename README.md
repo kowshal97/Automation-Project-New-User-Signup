@@ -26,6 +26,16 @@ The script validates page loading, fills the signup form, completes the detailed
 - `New user signup with best practice.py` — **main automation script**
 - [New user signup with best practice.py](https://github.com/kowshal97/Automation-Project-New-User-Signup/raw/main/New%20user%20signup%20with%20best%20practice.py)
 
+
+## 🔧 Customize Test Data
+
+- Open the script and update these inputs as you like (name, email, password, DOB, address, etc.).
+- Use a unique email each run to avoid “email already exists” errors.
+- Name / Email (signup page)
+- Password / DOB
+- Newsletter & offers checkboxes
+- Address (first/last name, company, street, country, state, city, zip, mobile)
+
 ---
 
 ## 🛠️ Tech Stack
