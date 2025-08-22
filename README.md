@@ -43,17 +43,19 @@ The script validates page loading, fills the signup form, completes the detailed
 - Submits the registration form
 - Confirms account creation
 
-🎯 Key Learnings
+  ---
 
-✅ Automated end-to-end signup flow with Selenium
+## 🎯 Key Learnings
 
-✅ Applied best practices: waits, validations, reusable functions
+- ✅ Automated end-to-end signup flow with Selenium
+- ✅ Applied best practices: waits, validations, reusable functions
+- ✅ Enhanced Python scripting & testing skills
 
-✅ Enhanced Python scripting & testing skills
+ ---
 
-👤 Author
+## 👤 Author
 
-Kowshal Sugunarajah
+## Kowshal Sugunarajah
 🎓 Postgraduate Student – Cloud Computing @ Durham College
 💼 Ex-QA at Amazon | ☁️ Cloud & 🤖 Automation Enthusiast
 
