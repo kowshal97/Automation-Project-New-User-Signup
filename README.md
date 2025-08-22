@@ -1,72 +1,42 @@
- 🤖 Automation Project – New User Signup  
+# 🤖 Automation Project – New User Signup
 
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)  
-![Automation](https://img.shields.io/badge/Tool-Selenium-blue)  
-![Language](https://img.shields.io/badge/Language-Python-yellow)  
-![Testing](https://img.shields.io/badge/Type-UI%20Automation-red)  
-
----
-
-## 📌 Overview  
-This project automates the **new user registration process** on [AutomationExercise.com](https://automationexercise.com) using **Selenium WebDriver in Python**.  
-The script validates page loading, fills out the signup form, completes the detailed registration process, and submits the account creation request.  
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Automation](https://img.shields.io/badge/Tool-Selenium-blue)
+![Language](https://img.shields.io/badge/Language-Python-yellow)
+![Testing](https://img.shields.io/badge/Type-UI%20Automation-red)
 
 ---
 
-## 🚀 Features  
-- 🌐 **Homepage Verification** → Confirms the site loads successfully  
-- 📝 **Signup Form Automation** → Auto-fills name & email  
-- 📋 **Detailed Registration** → Completes gender, password, DOB, address, preferences  
-- 🔐 **Form Submission** → Creates a new account with validations  
-- ⏳ **Explicit Waits** → Ensures stable execution with WebDriverWait  
+## 📌 Overview
+This project automates the **new user registration** workflow on **AutomationExercise.com** using **Selenium WebDriver (Python)**.  
+The script validates page loading, fills the signup form, completes the detailed registration page, and submits the account creation request.
 
 ---
 
-## 📂 Repository Contents  
-- `New user signup with best practice.py` → Main automation script  
-- `README.md` → Documentation (this file)  
+## 🚀 Features
+- 🌐 **Homepage Verification** — confirms the application loads successfully  
+- 📝 **Signup Form Automation** — auto-fills name & email  
+- 📋 **Detailed Registration** — gender, password, DOB, address, preferences  
+- 🔐 **Form Submission** — creates a new account with basic validations  
+- ⏳ **Explicit Waits** — stable execution using `WebDriverWait`
 
 ---
 
-## 🛠️ Tech Stack  
-- 🐍 **Python 3**  
-- 🌐 **Selenium WebDriver**  
-- 💻 **ChromeDriver** (via `webdriver-manager`)  
+## 📂 Repository Contents
+- `New user signup with best practice.py` — **main automation script**
+- `README.md` — **documentation** (this file)
 
 ---
 
-## ⚙️ How to Run  
+## 🛠️ Tech Stack
+- 🐍 **Python 3**
+- 🌐 **Selenium WebDriver**
+- 💻 **ChromeDriver** (managed via `webdriver-manager`)
 
-📦 **Install dependencies**:  
+---
+
+## ⚙️ How to Run
+
+📦 **Install dependencies**
 ```bash
 pip install selenium webdriver-manager
-▶️ Run the script:
-
-bash
-Copy
-Edit
-python "New user signup with best practice.py"
-👉 Chrome will launch and perform the signup automatically.
-
-📸 Demo Flow
-Opens AutomationExercise.com
-
-Navigates to Signup/Login page
-
-Fills in user details, address, and preferences
-
-Submits the registration form
-
-Confirms account creation
-
-🎯 Key Learnings
-✅ Automated end-to-end signup flow with Selenium
-
-✅ Applied best practices: waits, validations, reusable functions
-
-✅ Enhanced Python scripting & testing skills
-
-👤 Author
-Kowshal Sugunarajah
-🎓 Postgraduate Student – Cloud Computing @ Durham College
-💼 Ex-QA at Amazon | ☁️ Cloud & 🤖 Automation Enthusiast
