@@ -40,10 +40,10 @@ The script validates page loading, fills the signup form, completes the detailed
 
 ## 🛠 Troubleshooting
 
-- Chrome/driver mismatch: Update Chrome to latest or reinstall webdriver-manager cache:
-- pip install --upgrade webdriver-manager
-- Element not found / timing issues: Network delays happen—raise waits (e.g., WebDriverWait(..., 20)).
-- Email already exists: Use a fresh email each run (e.g., me+<timestamp>@example.com if your provider supports aliases).
+- **Chrome/driver mismatch**: Update Chrome to latest or reinstall webdriver-manager cache:
+- **pip install** --upgrade webdriver-manager
+- **Element not found / timing issues**: Network delays happen—raise waits (e.g., WebDriverWait(..., 20)).
+- **Email already exists**: Use a fresh email each run (e.g., me+<timestamp>@example.com if your provider supports aliases).
 
 ---
 
