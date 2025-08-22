@@ -41,9 +41,10 @@ The script validates page loading, fills the signup form, completes the detailed
 
 ```bash
 pip install selenium webdriver-manager
+▶️ **Run the script**
 python "New user signup with best practice.py"
 
-▶️ **Run the script**
+
 
 
 
