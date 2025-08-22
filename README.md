@@ -40,15 +40,14 @@ The script validates page loading, fills the signup form, completes the detailed
 📦 **Install dependencies**
 ```bash
 pip install selenium webdriver-manager
+▶️ Run the script
 
----
-
-
-
-
-
-## ▶️ Run the script
-```bash
 python "New user signup with best practice.py"
 
+
 👉 Chrome will launch and perform the signup automatically.
+
+
+
+
+
