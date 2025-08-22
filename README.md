@@ -24,7 +24,7 @@ The script validates page loading, fills the signup form, completes the detailed
 
 ## 📂 Repository Contents
 - `New user signup with best practice.py` — **main automation script**
-- [New user signup with best practice.py](https://github.com/kowshal97/Automation-Project-New-User-Signup/raw/main/New%20user%20signup%20with%20best%20practice.py)
+- [New user signup with best practice.py](https://github.com/kowshal97/Automation-Project-New-User-Signup/blob/main/new%20user%20signup%20with%20best%20practice.py)
 
 
 ## 🔧 Customize Test Data
