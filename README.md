@@ -24,7 +24,7 @@ The script validates page loading, fills the signup form, completes the detailed
 
 ## 📂 Repository Contents
 - `New user signup with best practice.py` — **main automation script**
-- `README.md` — **documentation** (this file)
+- [New user signup with best practice.py]()
 
 ---
 
