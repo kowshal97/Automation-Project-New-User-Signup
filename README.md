@@ -53,11 +53,10 @@ The script validates page loading, fills the signup form, completes the detailed
 
  ---
 
-## 👤 Author
-
-## Kowshal Sugunarajah
-🎓 Postgraduate Student – Cloud Computing @ Durham College
-💼 Ex-QA at Amazon | ☁️ Cloud & 🤖 Automation Enthusiast
+## 👤 Author  
+**Kowshal Sugunarajah**  
+🎓 Postgraduate Student – Cloud Computing @ Durham College  
+💼 Ex-QA at Amazon | ☁️ Cloud Enthusiast | 🗄️ Database & Automation Tester  
 
 
 
