@@ -53,7 +53,7 @@ The script validates page loading, fills the signup form, completes the detailed
 - Submits the registration form
 - Confirms account creation
 
-  ---
+---
 
 ## 🎯 Key Learnings
 
@@ -61,7 +61,7 @@ The script validates page loading, fills the signup form, completes the detailed
 - ✅ Applied best practices: waits, validations, reusable functions
 - ✅ Enhanced Python scripting & testing skills
 
- ---
+---
 
 ## 👤 Author  
 **Kowshal Sugunarajah**  
