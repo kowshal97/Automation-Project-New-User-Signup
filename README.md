@@ -35,15 +35,8 @@ The script validates page loading, fills the signup form, completes the detailed
 
 ---
 
-## ⚙️ How to Run
-
-📦 **Install dependencies**
-
-```bash
-pip install selenium webdriver-manager
-
-
 📸 Demo Flow
+
 - Opens AutomationExercise.com
 - Navigates to Signup/Login page
 - Fills in user details, address, and preferences
