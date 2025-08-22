@@ -43,6 +43,28 @@ The script validates page loading, fills the signup form, completes the detailed
 pip install selenium webdriver-manager
 
 
+📸 Demo Flow
+- Opens AutomationExercise.com
+- Navigates to Signup/Login page
+- Fills in user details, address, and preferences
+- Submits the registration form
+- Confirms account creation
+
+🎯 Key Learnings
+
+✅ Automated end-to-end signup flow with Selenium
+
+✅ Applied best practices: waits, validations, reusable functions
+
+✅ Enhanced Python scripting & testing skills
+
+👤 Author
+
+Kowshal Sugunarajah
+🎓 Postgraduate Student – Cloud Computing @ Durham College
+💼 Ex-QA at Amazon | ☁️ Cloud & 🤖 Automation Enthusiast
+
+
 
 
 
